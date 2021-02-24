@@ -9,7 +9,7 @@
     // width: 1140px;
     margin: 82px auto 0 auto;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(240px, auto));
     grid-template-rows: repeat(2, minmax(260px, auto));
     grid-auto-rows: 260px;
     gap: 60px;
